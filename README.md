@@ -17,6 +17,20 @@ This project includes training, evaluation, and visualization of agent performan
 
 ---
 
+## Demo 
+
+Here are some example performance charts for different tickers:
+
+### AAPL
+![AAPL Performance](Screenshots/Figure_AAPL.png)
+
+### TSLA
+![TSLA Performance](Screenshots/Figure_TSLA.png)
+
+### BTC-USD
+![BTC Performance](Screenshots/Figure_BTC_USD.png)
+
+---
 # Installation
 ## 1. Clone this repository
 ```
